@@ -1,8 +1,10 @@
+# Asteroidfield logic as provided by Bootdev Asteroids course
+
 import random
 
 import pygame
-from asteroid import Asteroid
 
+from asteroid import Asteroid
 from constants import *
 
 

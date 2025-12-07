@@ -1,3 +1,5 @@
+# Logger logic for use with Bootdev Asteroids course
+
 import inspect
 import json
 import math
